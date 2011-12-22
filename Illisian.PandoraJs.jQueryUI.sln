@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Illisian.PandoraJs", "Illisian.PandoraJs\Illisian.PandoraJs.csproj", "{22379397-6673-4C9A-8884-94C07F198607}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Illisian.PandoraJs.Utils", "Illisian.PandoraJs.Utils\Illisian.PandoraJs.Utils.csproj", "{816297D5-DC68-4B22-A54A-E76CACA2C07B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Illisian.PandoraJs.Utils.Extension", "Illisian.PandoraJs.Utils.Extension\Illisian.PandoraJs.Utils.Extension.csproj", "{25A752A4-9CFF-445F-9C34-5D2FE6C028B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Illisian.PandoraJs.Utils.Extension.jQueryUI", "Illisian.PandoraJs.Utils.Extension.jQueryUI\Illisian.PandoraJs.Utils.Extension.jQueryUI.csproj", "{EC6C2B37-FFA0-41FA-825D-983B0F2D98BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Illisian.PandoraJs.Controls.jQueryUI", "Illisian.PandoraJs.Controls.jQueryUI\Illisian.PandoraJs.Controls.jQueryUI.csproj", "{EC447EEC-94D0-4B49-9366-77865FB58BE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22379397-6673-4C9A-8884-94C07F198607}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22379397-6673-4C9A-8884-94C07F198607}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22379397-6673-4C9A-8884-94C07F198607}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22379397-6673-4C9A-8884-94C07F198607}.Release|Any CPU.Build.0 = Release|Any CPU
+		{816297D5-DC68-4B22-A54A-E76CACA2C07B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{816297D5-DC68-4B22-A54A-E76CACA2C07B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{816297D5-DC68-4B22-A54A-E76CACA2C07B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{816297D5-DC68-4B22-A54A-E76CACA2C07B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25A752A4-9CFF-445F-9C34-5D2FE6C028B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25A752A4-9CFF-445F-9C34-5D2FE6C028B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25A752A4-9CFF-445F-9C34-5D2FE6C028B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25A752A4-9CFF-445F-9C34-5D2FE6C028B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC6C2B37-FFA0-41FA-825D-983B0F2D98BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC6C2B37-FFA0-41FA-825D-983B0F2D98BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC6C2B37-FFA0-41FA-825D-983B0F2D98BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC6C2B37-FFA0-41FA-825D-983B0F2D98BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC447EEC-94D0-4B49-9366-77865FB58BE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC447EEC-94D0-4B49-9366-77865FB58BE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC447EEC-94D0-4B49-9366-77865FB58BE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC447EEC-94D0-4B49-9366-77865FB58BE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
